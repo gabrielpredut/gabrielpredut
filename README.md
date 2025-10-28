@@ -33,16 +33,6 @@ Hello! I'm Gabriel, a self-taught dev with curiosity for how things work and a d
 ### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielpredut&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### Streak 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpredut&theme=tokyonight&hide_border=true"/>
-</p>
-
-### Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/gabrielpredut" alt="Contribution Calendar" width="100%"/>
-
-
----
 
 
 </div>
