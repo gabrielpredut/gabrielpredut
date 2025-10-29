@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Gabriel, a self-taught dev with curiosity for how things work and a drive to build. I believe in continuous learning and constantly seek out new projects to expand my skill set. I write mostly of my projects on private repos.
+Hello! I'm Gabriel, a self-taught programmer with curiosity for how things work and a drive to build. I believe in continuous learning and constantly seek out new projects to expand my skill set. I write mostly of my projects on private repos.
 
 ---
 
