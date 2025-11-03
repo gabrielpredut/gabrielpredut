@@ -1,54 +1,40 @@
-# hello world
+<br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Self-Taught;Always+Learning+New+Things;Passionate+About+Code)](https://git.io/typing-svg)
+<h2 align="left">hello worls</h2>
 
----
-
-## About Me
-
-Hello! I'm Gabriel, a self-taught programmer with curiosity for how things work and a drive to build. I believe in continuous learning and constantly seek out new projects to expand my skill set. I write mostly of my projects on private repos.
-
----
-
-
-
-### Programming Languages
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Learning Languages
-
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Daily Stack + OS
-![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills. Examples: -->
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
-<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
-
----
-
-
-###  GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielpredut&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
-### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielpredut&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-
-
-</div>
-
+###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielpredut&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielpredut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielpredut&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-  ###  "Code is poetry, and every commit tells a story"
+###
 
+<br clear="both">
 
+<img align="right" height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Vxa3V4M3lmc3AwMXRsZWJ5ZTg0czl2a3hmNHVmMTk5aWpxYW9lbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2NfTnGMMBT8ORweXA/giphy.gif"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://t.me/pscaless" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gabrielpredut/gabrielpredut/output/snake.svg" alt="Snake animation" />
+
+###
