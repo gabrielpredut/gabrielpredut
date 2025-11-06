@@ -1,5 +1,5 @@
 <h1 align="left">hello world</h1>
-<h3 align="center">Hello! I'm Gabriel, a self-taught programmer. I write mostly of my projects on private repos.</h3>
+<h3 align="center">Hello! I'm Gabriel, a self-taught programmer. I write mostly of my projects in private repos.</h3>
 
 <p align="left">
 </p>
